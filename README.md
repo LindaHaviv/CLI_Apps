@@ -1,2 +1,2 @@
 # CLI_Apps
-A collective list of free CLI Apps 
+A collective list of cool CLI Apps 
