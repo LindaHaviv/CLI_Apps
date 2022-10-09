@@ -7,7 +7,6 @@ A collective list of cool CLI Apps
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [rebound](https://github.com/shobrook/rebound)
 - [cgasm](https://github.com/bnagy/cgasm)
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
 - [loadtest](https://github.com/alexfernandez/loadtest)
 - [mklicense](https://github.com/cezaraugusto/mklicense)
 - [foy](https://github.com/zaaack/foy)
