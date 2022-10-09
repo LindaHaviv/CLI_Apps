@@ -11,7 +11,7 @@ A collective list of cool CLI Apps
 - [loadtest](https://github.com/alexfernandez/loadtest)
 - [mklicense](https://github.com/cezaraugusto/mklicense)
 - [foy](https://github.com/zaaack/foy)
-- [reachable](https://github.com/italolelis/reachable)
+- [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up
 - [just](https://github.com/casey/just)
 - [bcal](https://github.com/jarun/bcal)
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli)
