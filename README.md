@@ -1,5 +1,5 @@
 # CLI_Apps
-![A collective list of cool CLI Apps](https://raw.githubusercontent.com/khrome/ansi-gif/master/Samples/nyan.gif)
+A collective list of cool CLI Apps
 ## Development
 
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
@@ -15,3 +15,4 @@
 - [bcal](https://github.com/jarun/bcal) - 🔢 Bits, bytes and address calculator
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
+![A collective list of cool CLI Apps](https://raw.githubusercontent.com/khrome/ansi-gif/master/Samples/nyan.gif)
