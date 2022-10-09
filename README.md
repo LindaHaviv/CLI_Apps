@@ -2,9 +2,9 @@
 A collective list of cool CLI Apps 
 ## Development
 
-- [legit](https://github.com/captainsafia/legit)
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
-- [add-gitignore](https://github.com/TejasQ/add-gitignore)
+- [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [rebound](https://github.com/shobrook/rebound)
 - [cgasm](https://github.com/bnagy/cgasm)
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
