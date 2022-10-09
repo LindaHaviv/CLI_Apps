@@ -14,5 +14,4 @@ A collective list of cool CLI Apps
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [bcal](https://github.com/jarun/bcal) - 🔢 Bits, bytes and address calculator
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down
-- [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
