@@ -13,7 +13,7 @@ A collective list of cool CLI Apps
 - [foy](https://github.com/zaaack/foy)
 - [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
-- [bcal](https://github.com/jarun/bcal)
+- [bcal](https://github.com/jarun/bcal) - 🔢 Bits, bytes and address calculator
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli)
 - [reachable](https://github.com/italolelis/reachable)
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
