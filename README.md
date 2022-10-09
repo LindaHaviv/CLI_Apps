@@ -1,6 +1,5 @@
 # CLI_Apps
-A collective list of cool CLI Apps
-![Alt Text](https://raw.githubusercontent.com/khrome/ansi-gif/master/Samples/nyan.gif)
+![A collective list of cool CLI Apps](https://raw.githubusercontent.com/khrome/ansi-gif/master/Samples/nyan.gif)
 ## Development
 
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
