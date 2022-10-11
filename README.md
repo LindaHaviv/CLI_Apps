@@ -1,6 +1,6 @@
 # CLI_Apps
 A collective list of cool CLI Apps
-## Development
+## The list
 
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
@@ -16,3 +16,5 @@ A collective list of cool CLI Apps
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+- [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Pimp up your terminal
